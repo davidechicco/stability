@@ -1,0 +1,23 @@
+
+[INPUT FILE] Reading the list in the ../data/rflists.csv file (each row in the csv file is a list)
+[NUMBER OF LISTS] The program has read 10 lists
+[LENGTH OF EACH LIST] All the lists have the same length, which is 11
+[STABILITY] The stability of the lists is 0.09 in the [0, 1] interval
+[STABILITY] where 0.00 means identical lists, and 1.00 means maximum instability
+
+[INPUT FILE] Reading the list in the ../data/fake_lists.csv file (each row in the csv file is a list)
+[NUMBER OF LISTS] The program has read 19 lists
+[LENGTH OF EACH LIST] The lists have different lengths, which are the following: 3 1 2 19 18 10 4 12 19 1 10 14 7 3 13 3 6 13 10 
+[STABILITY] The stability of the lists is 0.50 in the [0, 1] interval
+[STABILITY] where 0.00 means identical lists, and 1.00 means maximum instability
+
+[INPUT FILE] Reading the list in the ../data/simple_lists.csv file (each row in the csv file is a list)
+[NUMBER OF LISTS] The program has read 2 lists
+[LENGTH OF EACH LIST] The lists have different lengths, which are the following: 5 1 
+[STABILITY] The stability of the lists is 0.58 in the [0, 1] interval
+[STABILITY] where 0.00 means identical lists, and 1.00 means maximum instability
+
+[NUMBER OF LISTS] The program has read 2 lists
+[LENGTH OF EACH LIST] All the lists have the same length, which is 1
+[STABILITY] The stability of the lists is 1.00 in the [0, 1] interval
+[STABILITY] where 0.00 means identical lists, and 1.00 means maximum instability
