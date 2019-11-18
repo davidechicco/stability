@@ -214,3 +214,8 @@ tryList <- list("aaa", "fff")
 if(thisVerboseFlag) cat("\n")
 thisStabilitySimplelLists <- stability(tryList, thisVerboseFlag)$stability
 
+
+# ###########################  Example 5: simple lists with different elements
+tryList <- list(c("aaa", "bbb"), c("kkk", "jjj"))
+if(thisVerboseFlag) cat("\n")
+thisStabilitySimplelLists <- stability(tryList, thisVerboseFlag)$stability
